@@ -1,0 +1,11 @@
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\TestApp.exe.config
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\TestApp.exe
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\TestApp.pdb
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\nunit.framework.dll
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\WebDriver.dll
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\WebDriver.Support.dll
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\nunit.framework.xml
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\WebDriver.xml
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Release\WebDriver.Support.xml
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Release\TestApp.exe
+c:\users\sidhu\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Release\TestApp.pdb
